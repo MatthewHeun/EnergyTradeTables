@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit README.Rmd -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+
+# EnergyTradeTables
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The `R` package `EnergyTradeTables` provides functions to 
+develop and analyze international energy trade tables.
+
+
+## Installation
+
+You can install the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("MatthewHeun/EnergyTradeTables")
+```
