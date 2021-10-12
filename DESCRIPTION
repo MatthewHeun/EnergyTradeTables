@@ -1,6 +1,6 @@
 Package: EnergyTradeTables
 Title: Analyze International Energy Trade Tables
-Version: 0.0.1
+Version: 0.0.0.99
 Authors@R: 
     person(given = "Matthew", family = "Heun", middle = "Kuperus", 
            email = "matthew.heun@me.com", role = c("aut", "cre"),
